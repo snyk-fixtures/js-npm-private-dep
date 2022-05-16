@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@snyk/dummy-private-package": "^2.0.0",
-    "express": "^3.10.5"
+    "express": "^4.15.3"
   }
 }
